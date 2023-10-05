@@ -1,3 +1,5 @@
+//The essence of the program is to calculate the maximum salary of the employee based on the given digits by the employer/manager. 
+
 #include <stdio.h>
 
 void swap(int a[], int i, int j){ 
