@@ -1,3 +1,7 @@
+//In this code, I tried to maximize the profit of the advertising company by enabling them to choose the ad with the highest price each time. 
+//I used greedy algorithms to accomplish this work. The program development was part of the assignment given by the online course EdX "Algorithms and Design I" offered 
+//by Stanford University. 
+
 #include <stdio.h>
 
 //function to swap the elements of the array - it is needed for bubble sort
